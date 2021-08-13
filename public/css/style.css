@@ -501,7 +501,7 @@ footer.footer .move-up span:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--sky);
+    background: #4d7074;
 }
 
 
