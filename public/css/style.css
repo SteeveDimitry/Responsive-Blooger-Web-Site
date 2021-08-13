@@ -491,6 +491,20 @@ footer.footer .move-up span:hover {
     cursor: pointer;
 }
 
+::selection {
+    background: var(--midnight);
+    color: #f1f2f3;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--sky);
+}
+
+
 /* ViewPort less or equal than 1130px  */
 
 @media only screen and (max-width: 1130px) {
