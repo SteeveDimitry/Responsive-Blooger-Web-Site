@@ -6,6 +6,7 @@ body {
     box-sizing: border-box;
     overflow-x: hidden;
     scroll-behavior: smooth;
+    user-select: none;
 }
 
 :root {
@@ -497,10 +498,6 @@ footer.footer .move-up span:hover {
 }
 
 ::-webkit-scrollbar {
-    width: 0;
-}
-
-::-webkit-scrollbar-thumb {
     width: 0;
 }
 
