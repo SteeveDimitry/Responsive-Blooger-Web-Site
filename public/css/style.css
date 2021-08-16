@@ -346,6 +346,7 @@ main .post-content .post-title a {
     width: 70%;
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .site-content>.sidebar .category-list .list-items a {
