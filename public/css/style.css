@@ -497,11 +497,11 @@ footer.footer .move-up span:hover {
 }
 
 ::-webkit-scrollbar {
-    width: 12px;
+    width: 0;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #4d7074;
+    width: 0;
 }
 
 
