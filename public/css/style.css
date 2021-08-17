@@ -318,6 +318,7 @@ main .post-content .post-title a {
     justify-content: center;
     color: var(--text-gray);
     margin: 4rem 0;
+    cursor: pointer;
 }
 
 .site-content .pagination a {
@@ -330,6 +331,7 @@ main .post-content .post-title a {
 .site-content .pagination .pages {
     background: var(--text-gray);
     color: var(--white);
+    cursor: pointer;
 }
 
 /* *********************** Side bar *********************** */
