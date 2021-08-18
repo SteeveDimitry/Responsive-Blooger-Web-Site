@@ -310,7 +310,7 @@ main .post-content .post-title a {
 
 .site-content .post-content .post-title span {
     font-family: var(--Lexend);
-    color: black;
+    color: red;
     /* display: none; */
 }
 
