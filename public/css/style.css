@@ -507,18 +507,16 @@ footer.footer .move-up span:hover {
 }
 
 ::-webkit-scrollbar {
-    width: 9px;
+    width: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
     border-radius: 5px;
-    width: 8px;
     background: #6e6d6d;
 }
 
 ::-webkit-scrollbar-thumb:hover {
     border-radius: 5px;
-    width: 8px;
     background: #b4b0b0;
 }
 
