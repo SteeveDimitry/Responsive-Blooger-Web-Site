@@ -310,8 +310,8 @@ main .post-content .post-title a {
 
 .site-content .post-content .post-title span {
     font-family: var(--Lexend);
-    color: red;
-    /* display: none; */
+    color: black;
+    display: none;
 }
 
 .site-content .post-content .post-title .post-btn {
@@ -507,7 +507,19 @@ footer.footer .move-up span:hover {
 }
 
 ::-webkit-scrollbar {
-    width: 0;
+    width: 9px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    width: 8px;
+    background: #6e6d6d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 5px;
+    width: 8px;
+    background: #b4b0b0;
 }
 
 
