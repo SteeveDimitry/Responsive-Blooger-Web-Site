@@ -308,6 +308,12 @@ main .post-content .post-title a {
     font-size: 1.5rem;
 }
 
+.site-content .post-content .post-title span {
+    font-family: var(--Lexend);
+    color: black;
+    /* display: none; */
+}
+
 .site-content .post-content .post-title .post-btn {
     border-radius: 0;
     padding: .7rem 1.5rem;
