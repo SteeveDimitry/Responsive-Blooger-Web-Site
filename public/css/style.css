@@ -338,7 +338,10 @@ main .post-content .post-title a {
 
 .site-content .post-content .post-title span {
     font-family: var(--Lexend);
-    color: black;
+    color: transparent;
+    background: url("../assets/Background-image.png");
+    background-clip: text;
+    -webkit-background-clip: text;
     display: none;
 }
 
