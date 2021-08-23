@@ -541,12 +541,15 @@ footer.footer .move-up span:hover {
     color: #f1f2f3;
 }
 
+
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
+    border-radius: 1.5px;
 }
 
 ::-webkit-scrollbar-thumb {
     background: #918e8e;
+    border-radius: 1.5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
